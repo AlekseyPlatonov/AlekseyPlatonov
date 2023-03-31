@@ -1,6 +1,6 @@
 ## I'm a QA Engineer. 
 ## My CV
-[Link to my CV](https://www.google.ru/intl/ru/docs/about/)
+[Link to my CV](https://drive.google.com/file/d/12aAru47-cjRDQeWYSXD3uNIihWrRjjV3/view?usp=sharing)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -29,4 +29,4 @@
 
 ### My contacts
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/komissred)
-[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com)
+[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/алексей-платонов-6b29bb270/)
